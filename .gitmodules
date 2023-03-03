@@ -7,3 +7,9 @@
 [submodule "sk.specification"]
 	path = sk.specification
 	url = https://github.com/andrejanesic/sk.specification.git
+[submodule "sk.localImplementation"]
+	path = sk.localImplementation
+	url = https://github.com/Aleksa0308/sk.localImplementation
+[submodule "sk.remoteImplementation"]
+	path = sk.remoteImplementation
+	url = https://github.com/Aleksa0308/sk.remoteImplementation
