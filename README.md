@@ -10,11 +10,13 @@ The project consists of the following submodules:
 
 | Component | Description |
 | --- | --- |
-| [sk.core](./sk.core/) | The "main" part of the library that glues the components together. |
-| [sk.specification](./sk.specification/) | The shared specification used for developing concrete implementations of IO ops. |
+| [sk.core](https://github.com/andrejanesic/sk.core/) | The "main" part of the library that glues the components together. |
+| [sk.specification](https://github.com/andrejanesic/sk.specification/) | The shared specification used for developing concrete implementations of IO ops. |
 | [sk.localImplementation](./sk.localImplementation/) | An implementation of IO functionalities based on local storage. |
 | [sk.remoteImplementation](./sk.remoteImplementation/) | An implementation of IO functionalities based on Google Drive. |
-| [sk.cli](./sk.cli/) | CLI program for accessing the library. |
+| [sk.cli](https://github.com/andrejanesic/sk.cli/) | CLI program for accessing the library. |
+
+#TODO update link for impls
 
 ## Authors
 
