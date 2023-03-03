@@ -1,0 +1,9 @@
+[submodule "sk.core"]
+	path = sk.core
+	url = https://github.com/andrejanesic/sk.core.git
+[submodule "sk.cli"]
+	path = sk.cli
+	url = https://github.com/andrejanesic/sk.cli.git
+[submodule "sk.specification"]
+	path = sk.specification
+	url = https://github.com/andrejanesic/sk.specification.git
